@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "el-booking-a4bd9",
+  "private_key_id": "354428c3153d6d675d7aa7476da4298e72957cd7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDA27WS34sr5E83\nYpM9+tCzmQ9tL4roV1LSfZyPec0xqBuwD5ClbEWU2GHv5sIZVRXIZtvnOPMPx7/n\n2Xnuo+RtHfRSArjPqlkc5Jyk/7F/K8JjtK+2vxqdOi3L2pmeqfoAyWpzNMw6tAfx\nMNzgX6g7IbBrDMpZxkcIDyonEfqwrE3iOQp/SfRRZG6Qi4Ldxi8/w1tP8k9uqwiE\ns7Yd/SkLV4HPhEouDzR8Sg+ZFe74zrfIh426fbmwaPXGrC+7ePReZ4KDS5zTXqEu\nzwZ0kXkWSxLg3H0MrCQyBmdmg9x3GFKfft8OBeHSU+98XbUI/WhMeFV6XbjbC/vm\ni+z58yg1AgMBAAECggEAAlpImGr4Z6SV0DS8jyGV+hXWXn1EEZcHQM6sCr8p4yMB\nnKl5A5JD+ecU2yyih3/RCVxdVSfjNoXaEy7FLNak09gCdAPdUZjzLgxE5yD8Q3NO\nQlo4YLselVARZUDJWP+j72XjfJHM5nh+3Oha6BrO5cHnGmXg7f4ATty19qXRnipG\nPsc05Q8uFN0xNsXldQPSj56WS8OWvnDVCo+0XTAz1Blf6Iz5l92Bb0o6Pp24r4f3\nBShususu0KUGtRicEGdODM92iqxleQFRpke7yKnAIlf1QZCc8Sw1Ks0trtPZBN8c\nUb6QV4O6av4d7LpX0PELcoGyHHuq0q7EJYVXeYubAQKBgQDnqBmYW6FoIKx9ecHe\nXKI9o3FgRN3JsKT/xVfAeK4+JiCEcjGWlhbwbl7pUtM2buv9yNRhTkNGJdo4S504\nUMHJ9AxQjxUKjhYGJhTolbPaV3V90Ak3gO8UgCQOu+3MScyAz6oNGEJU1D2pgOIg\n6WXD6/gxIi8DvJvI0sBmRz1LNQKBgQDVH+A+5q7ei0gKt3gwN76vo9GrOIBDnur0\nrY0970lqUNnvaVNRNTfoLYOCRD5YGMszneGYkn+2Qhj7w7J/hve5O8Rs0q4/+hzH\nSXT4B0630G6iyjgIfgijgTVzSiVmR5uQjrOKAB27X4aELGuwBLJjZVk8iD3faFW1\nhIhtn+0JAQKBgEsFfYSB6Du4mSPpkodYqJIdpFHw+4Kd2lGar1h9vLAT2OQLt1N1\nN+iVVddqI0y1j2eY6m640cCd8ZXZpwjd3mRwzKwqKj5I1YkYPB02nhBP0pT0EogP\nEV4qQYMkCVbnb3snxYKIILMoKPAD9TeDXpmcibwfveoP4sOevQBigc8hAoGBAKs0\n4yjEmb+u9d2eC0/4yBdCq4E3b1pjBG4wKSGS41AjyR8ZZlP7Q4EhZt6zwb11lW9O\nqlatgSjBql49lFv76W8FQ0MEb/R3EL1LFkrVW/gv2WCuwBqaXIg0mOKXsrmaVq7m\n4/W9KCVIlMADCzMoYsGUPf5xl/qrTwb1g79E1N8BAoGBAK/rMjwnNnJdbWXFr9fV\nmTn+7z46ziXMd4flX1tqukr35kcP8nHUAtcpk/iSmRYlQcBdLF4ZLyWqH5wHZxA+\nI44urvJaG/t5sVzJPLzrIMdPLMiu6bRFBM4kvnjEVUZdm6rqRfQgqzHrnQWcT7hs\nT2j1Gf3HL0YEtq6aft3ybb35\n-----END PRIVATE KEY-----\n",
+  "client_email": "el-booking-a4bd9@appspot.gserviceaccount.com",
+  "client_id": "108001707247713681392",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/el-booking-a4bd9%40appspot.gserviceaccount.com"
+}
