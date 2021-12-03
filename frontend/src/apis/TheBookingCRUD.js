@@ -1,5 +1,5 @@
 import axios from "axios";
-const url = "./El_Boocking.hub/Backend";
+const url = "http://localhost:5000/";
 const booking = "El_Boocking.hub"
 
 export function getCrudBookings(callback){
