@@ -1,5 +1,5 @@
 import axios from "axios";
-const url = "https://bookifront.herokuapp.com";
+const url = "https://bookingas.herokuapp.com/";
 const booking = "El_Boocking.hub"
 
 export function getCrudBookings(callback){
